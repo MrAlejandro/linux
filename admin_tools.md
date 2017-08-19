@@ -3,4 +3,8 @@
 ### Linux useful utilities scheme
 [http://www.brendangregg.com/linuxperf.html](http://www.brendangregg.com/linuxperf.html)
 ### CPU info commands
-  * ```uptime```
+  * ```uptime``` - shows uptime and average load
+  * ```top```
+  * ```vmstat``` - shows CPU memory usage, swap etc.
+  * ```pidstat -p [process id]``` - shows CPU info for a certain process
+  * ```sar -q``` - shows process queue
