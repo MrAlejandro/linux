@@ -25,5 +25,5 @@
   * ```netstat -s``` - shows general info
   * ```netstat -i``` - shows errors on interfaces
   * ```iftop``` - traffic stats
-  * ```sar -n [DEV|EDEV]
+  * ```sar -n [DEV|EDEV]```
   * ```traceroute google.com```
